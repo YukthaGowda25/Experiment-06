@@ -353,4 +353,4 @@ The obatined 3db B.W=400.0834MHz.
 - Moreover, the deviation in gain could also result from an underestimation of the drain resistance or variations in transconductance across the devices.
 
 
-# Experiment-06
+
